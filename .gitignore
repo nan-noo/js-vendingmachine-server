@@ -1,3 +1,6 @@
+db.json
+.env
+
 # Logs
 logs
 *.log
